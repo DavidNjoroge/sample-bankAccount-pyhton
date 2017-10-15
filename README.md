@@ -11,12 +11,12 @@
 
 ## instructions
 
-* using the class customer make an methods according to the tests
+* using the class Account make methods according to the tests
 * make sure all the tests pass.
-* to run the tests in he terminal cd into the folder and run `$ python3 customer_test.py`
+* to run the tests in the terminal cd into the folder and run `$ python3 customer_test.py`
 
 #### test cases(TDD)
-* first test: test to see if the customer is initialized with the correct properties
-* second test: test to see if you can check your balance
+* test case: test to see if the account is initialized with the correct properties
+* test case: test to see if you can check your balance
 * test case: should be able to deposit an amount
 * test case: should be able to withdraw from the account and if the amount withdrawed is more than the balance, should return message"you dont have enough cash to withdraw"
